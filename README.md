@@ -93,3 +93,6 @@ Background music
 Pause/resume functionality
 
 Game settings menu
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/9b26ed85-f801-45bb-a661-bffc412caf4d)
