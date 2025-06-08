@@ -96,3 +96,4 @@ Game settings menu
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/04f6eed1-d414-4f6e-8c44-8c257a03cfc9)
